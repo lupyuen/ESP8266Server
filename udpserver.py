@@ -1,3 +1,4 @@
+#  This is a Python UDP server to display UDP messages sent by the ESP8266 Arduino Shield by http://www.doit.am/
 #  Listen to UDP port 9000 and print any message received.
 #  Based on https://pymotw.com/2/socket/udp.html
 
